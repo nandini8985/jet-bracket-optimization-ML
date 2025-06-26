@@ -1,0 +1,14 @@
+Name,Unit,Expression,Value,Comments,Favorite
+top_hole_dia,mm,22 mm,22.00,,false
+bottom_hole_dia,mm,11.0 mm,11.00,,false
+fillet_r,mm,7 mm,7.00,,false
+hole_height,mm,44.5 mm,44.50,,false
+rib_fillet_r,mm,5 mm,5.00,,false
+body_length,mm,180 mm,180.00,,false
+body_width,mm,95 mm,95.00,,false
+body_thickness,mm,22.50 mm,22.50,,false
+rib_thickness,mm,20 mm,20.00,,false
+corner_fillet_r,mm,15 mm,15.00,,false
+rib_cut_width,mm,15 mm,15.00,,false
+center_circle_dia,mm,20 mm,20.00,,false
+depth,mm,15 mm,15.00,,false
